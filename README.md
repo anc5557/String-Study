@@ -3,7 +3,9 @@
 작성자 : 서준호  
 일자 : 2023-12-19 ~ 2023-12-20
 
-javascript로 진행했던 토이 프로젝트 java로 마이그레이션 하면서 연습 중  -> [토이프로젝트 : 다이어리 ](https://github.com/anc5557/Diary)
+javascript로 진행했던 토이 프로젝트 java로 마이그레이션 하면서 연습 중
+
+[javascript 다이어리 ](https://github.com/anc5557/Diary) -> [java 다이어리](https://github.com/anc5557/spring_practice_diary)
 
 ## 목차
 #### 1. [스프링 개념](https://github.com/anc5557/String-Study/blob/main/spring/spring-basics.md)
