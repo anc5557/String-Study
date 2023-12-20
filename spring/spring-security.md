@@ -1,3 +1,4 @@
+<https://spring.io/projects/spring-security#overview>
 
 # 1. 스프링 보안의 기본 개념
 스프링 보안(Spring Security)은 스프링 기반 애플리케이션에서 인증과 권한 부여를 관리하는 강력한 보안 프레임워크입니다. 스프링 보안을 사용하면 애플리케이션의 보안을 강화하고, 보안 관련 작업을 쉽게 처리할 수 있습니다.
