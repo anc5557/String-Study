@@ -211,7 +211,7 @@ public class MyController {
 1. Index: 0, Item: 사과, Even? true, Odd? false, First? true, Last? false
 2. Index: 1, Item: 바나나, Even? false, Odd? true, First? false, Last? false
 3. Index: 2, Item: 체리, Even? true, Odd? false, First? false, Last? true
-4. 
+
 # 폼 처리
 Thymeleaf에서 폼 처리는 주로 사용자 입력을 수집하고 서버에 전송하는 데 사용됩니다.
 
@@ -318,7 +318,7 @@ model.addAttribute("message", "Hello, Thymeleaf!");
 ## 5. 폼 데이터 처리
 
 - Thymeleaf와 스프링 MVC를 함께 사용하면, 폼 데이터의 송수신과 처리가 매우 간편해집니다.
-- `@ModelAttribute`를 사용하여 폼 데이터를 객체에 매핑하고, 이를 컨트롤러에서 처리할 수 있습니다. -> [[#4. 폼 제출]]
+- `@ModelAttribute`를 사용하여 폼 데이터를 객체에 매핑하고, 이를 컨트롤러에서 처리할 수 있습니다.
 
 ## 6. 국제화 및 검증
 
@@ -470,8 +470,6 @@ spring.messages.basename=messages
 - **재사용성**: 헤더, 푸터, 네비게이션 바와 같은 공통 요소를 여러 페이지에서 재사용할 수 있습니다.
 - **유지 보수 용이성**: 공통 요소의 변경이 필요할 때, 한 곳에서만 수정하면 모든 페이지에 적용됩니다.
 - **일관성**: 모든 페이지에 동일한 레이아웃과 디자인을 적용하여 일관성을 유지할 수 있습니다.
-
-Thymeleaf와 스프링 시큐리티(Security)의 통합은 웹 애플리케이션 보안을 강화하는 중요한 방법입니다. 스프링 시큐리티 6.0.0 이상과 스프링 부트 3.x, 자바 17을 사용한다고 하셨으니, 이 환경에 맞는 예시를 들어 설명드리겠습니다.
 
 
 # 스프링 시큐리티와 Thymeleaf
