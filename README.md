@@ -15,3 +15,4 @@ javascript로 진행했던 토이 프로젝트 java로 마이그레이션 하면
 #### 5. [스프링 MVC](https://github.com/anc5557/String-Study/blob/main/spring/spring-MVC.md)
 #### 6. [스프링 security](https://github.com/anc5557/String-Study/blob/main/spring/spring-security.md)
 #### 7. [스프링 JWT](https://github.com/anc5557/String-Study/blob/main/spring/spring-jwt.md)
+#### 8. [Thymeleaf](https://github.com/anc5557/String-Study/blob/main/spring/Thymeleaf.md)
